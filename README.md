@@ -79,6 +79,15 @@ Features include:
 - Path length & cost reports
 
 ---
+## 👥 Team Members
+
+| Member | Role | Contribution |
+|--------|------|--------------|
+| **Shashwat Gohel** | Developer & Research Lead | Battery-aware algorithm design, heuristic optimization, dynamic replanning logic, documentation |
+| **Feni Vithani** | Developer & UI/UX Lead | GUI development, grid rendering, user interaction design, visualization of pathfinding |
+
+
+---
 
 ## ▶ Installation & Execution
 
@@ -92,3 +101,5 @@ Features include:
 ### Run the Simulator
 ```bash
 python Rover_Sim_2.py
+
+
